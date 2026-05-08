@@ -1,0 +1,12 @@
+# Editor / OS noise
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Local dnsmasq state (if dnsmasq is ever run with leases enabled)
+*.leases
+*.pid
+
+# Logs
+*.log

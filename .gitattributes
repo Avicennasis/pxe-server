@@ -1,0 +1,11 @@
+# Auto-detect text files and normalise line endings
+* text=auto
+
+# Shell scripts
+*.sh text eol=lf linguist-language=Shell
+
+# Config files
+*.conf text eol=lf
+
+# Vendor / binary directories (exclude from language stats)
+tftp/ linguist-vendored
