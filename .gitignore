@@ -10,3 +10,6 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Stargazer context overlays
+.stargazer-*
